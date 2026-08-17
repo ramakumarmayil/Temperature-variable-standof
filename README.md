@@ -24,5 +24,6 @@ Electronics used in extreme environments (aerospace, defense, telecom infrastruc
 
 ## Links
 
+## Links
 - [Patent on Google Patents](https://patents.google.com/patent/US11324110B2/en)
-- [USPTO record](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=11324110.PN.)
+- [USPTO Patent Center record](https://patentcenter.uspto.gov/applications/16860965)
